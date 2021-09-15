@@ -2,6 +2,7 @@
 I wanted to create a website for myself where I can showcase my projects and show some of my personality through the site design. This was the first time that I created a moodpboard and mockups before beginning the coding process. I found that having thought of the design beforehand made the development process much easier as I was able to focus only on the code since the design was already finished.
 
 ## Demo
+https://kaveesha-ranmuthu.netlify.app/
 
 ## Technologies
 This project was created using:
