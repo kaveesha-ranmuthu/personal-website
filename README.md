@@ -35,7 +35,6 @@ npm start
 
 ## Mockups
 <img src="https://user-images.githubusercontent.com/73220161/133519341-837c80c1-66b0-4fd2-a63f-6e033168404c.png" width="700">
-<img src="https://user-images.githubusercontent.com/73220161/133519348-5ea14efb-3468-4d6b-9a98-f07843cd7a69.png" width="700">
 <img src="https://user-images.githubusercontent.com/73220161/133519352-07e7e5ea-045f-4bc3-9283-6da2323a9bf4.png" width="700">
 <img src="https://user-images.githubusercontent.com/73220161/133519463-8b3d48ab-cc83-49eb-86aa-9f52b4e869d3.png" width="700">
 <img src="https://user-images.githubusercontent.com/73220161/133519357-1f9d4398-1d80-4b6e-8b2a-322cc772685c.png" width="700">
