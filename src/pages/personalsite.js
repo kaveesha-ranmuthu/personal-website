@@ -5,7 +5,6 @@ import website1 from "../images/website-1.png";
 import website2 from "../images/website-2.png";
 import website3 from "../images/website-3.png";
 import website4 from "../images/website-4.png";
-import website5 from "../images/website-5.png";
 import moodboard from "../images/moodboard.png";
 import colourPalette from "../images/website-color-palette.png";
 import Sidebar from "../components/Sidebar";
@@ -13,9 +12,9 @@ import Sidebar from "../components/Sidebar";
 const PersonalSite = () => {
   const data = {
     title: "personal website",
-    github: "https://github.com/kaveesha-ranmuthu/personal-website",
+    github: "https://github.com/kaveesha-ranmuthu/",
     demo: "/",
-    images: [website1, website2, website3, website4, website5],
+    images: [website1, website2, website3, website4],
     moodboard: moodboard,
     colourPalette: colourPalette,
     description:

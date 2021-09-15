@@ -8,10 +8,10 @@ import {
   ContactLink,
   Icon,
   Link,
-  EmailPhone,
 } from "./ContactElements";
 import contact from "../../images/contact.png";
-import { HiOutlineMail, HiOutlinePhone } from "react-icons/hi";
+import { FiGithub } from "react-icons/fi";
+import { FaLinkedinIn } from "react-icons/fa";
 
 const Contact = () => {
   return (
@@ -28,33 +28,24 @@ const Contact = () => {
           <ContactInfo>
             <ContactLink>
               <Icon>
-                <HiOutlineMail />
+                <FaLinkedinIn />
               </Icon>
-              <EmailPhone href="mailto: kranmuthu1999@gmail.com">
-                kranmuthu1999@gmail.com
-              </EmailPhone>
+              <Link
+                href="https://www.linkedin.com/in/kaveesha-ranmuthu/"
+                target="_blank"
+              >
+                Linkedin
+              </Link>
             </ContactLink>
             <ContactLink>
               <Icon>
-                <HiOutlinePhone />
+                <FiGithub />
               </Icon>
-              <EmailPhone href="tel:0211922404">0211922404</EmailPhone>
+              <Link href="https://github.com/kaveesha-ranmuthu" target="_blank">
+                Github
+              </Link>
             </ContactLink>
           </ContactInfo>
-          <Paragraph>
-            You can also find me on{" "}
-            <Link href="https://github.com/kaveesha-ranmuthu" target="_blank">
-              Github
-            </Link>{" "}
-            and{" "}
-            <Link
-              href="https://www.linkedin.com/in/kaveesha-ranmuthu/"
-              target="_blank"
-            >
-              Linkedin
-            </Link>
-            .
-          </Paragraph>
         </ContactContainer>
       </ContactWrapper>
     </>

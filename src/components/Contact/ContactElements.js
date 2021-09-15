@@ -75,7 +75,7 @@ export const ContactLink = styled.div`
   }
 `;
 
-export const EmailPhone = styled.a`
+export const Link = styled.a`
   color: #333333;
   text-decoration: none;
 
@@ -86,13 +86,8 @@ export const EmailPhone = styled.a`
 `;
 
 export const Icon = styled.p`
-  font-size: 20px;
-  height: 20px;
+  font-size: 15px;
+  height: 15px;
   margin-right: 8px;
   color: #9bcbd3;
-`;
-
-export const Link = styled.a`
-  color: #9bcbd3;
-  text-decoration: none;
 `;

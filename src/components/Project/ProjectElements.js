@@ -188,14 +188,14 @@ export const ListItem = styled.li`
 `;
 
 export const Moodboard = styled.img`
-  width: 100%;
+  width: 70%;
   object-fit: cover;
   margin-bottom: 15px;
   margin-left: -30px;
 `;
 
 export const Palette = styled.img`
-  width: 60%;
+  width: 40%;
   object-fit: cover;
   margin-bottom: 15px;
   margin-top: 10px;
