@@ -13,7 +13,7 @@ import Sidebar from "../components/Sidebar";
 const PersonalSite = () => {
   const data = {
     title: "personal website",
-    github: "https://github.com/kaveesha-ranmuthu/",
+    github: "https://github.com/kaveesha-ranmuthu/personal-website",
     demo: "/",
     images: [website1, website2, website3, website4, website5],
     moodboard: moodboard,
