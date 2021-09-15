@@ -31,4 +31,4 @@ npm start
 
 ## Moodboard & Colour Palette
 <img src="https://user-images.githubusercontent.com/73220161/133518882-bafc8f49-3045-4c0e-871f-68c0f8246060.png" width="400">
-<img src="https://user-images.githubusercontent.com/73220161/133518920-20539483-e0c4-4106-affd-786dead294b2.png" width="200" margin-left="100px">
+<img src="https://user-images.githubusercontent.com/73220161/133518920-20539483-e0c4-4106-affd-786dead294b2.png" width="200">
