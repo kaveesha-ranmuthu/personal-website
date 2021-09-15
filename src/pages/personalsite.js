@@ -12,13 +12,13 @@ import Sidebar from "../components/Sidebar";
 const PersonalSite = () => {
   const data = {
     title: "personal website",
-    github: "https://github.com/kaveesha-ranmuthu/",
+    github: "https://github.com/kaveesha-ranmuthu/personal-website",
     demo: "/",
     images: [website1, website2, website3, website4],
     moodboard: moodboard,
     colourPalette: colourPalette,
     description:
-      "I wanted to create a website for myself where I can showcase my projects and show some of my personality through the site design. This was the first time that I created a moodpboard and mockups before beginning the coding process. I found that having thought of the design beforehand made the development process much easier as I was able to focus only on the code since the design was already finished.",
+      "I wanted to create a website for myself where I can showcase my projects and show some of my personality through the site design. This was the first time that I created a moodboard and mockups before beginning the coding process. I found that having thought of the design beforehand made the development process much easier as I was able to focus only on the code since the design was already finished.",
     technologies: ["React", "Styled Components", "HTML", "CSS", "JavaScript"],
     features: [
       "The home has a simple greeting and welcomes the user to the site.",
