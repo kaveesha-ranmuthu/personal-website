@@ -1,5 +1,5 @@
 # Personal Website
-I wanted to create a website for myself where I can showcase my projects and show some of my personality through the site design. This was the first time that I created a moodboard and mockups before beginning the coding process. I found that having thought of the design beforehand made the development process much easier as I was able to focus only on the code since the design was already finished.
+I wanted to create a website for myself where I can showcase my projects and show some of my personality through the site design. This was the first time that I created a moodboard and wireframes before beginning the coding process. I found that having thought of the design beforehand made the development process much easier as I was able to focus only on the code since the design was already finished.
 
 ## Demo
 https://kaveesha-ranmuthu.netlify.app/
@@ -34,7 +34,7 @@ npm start
 <img src="https://user-images.githubusercontent.com/73220161/133519258-99cc4180-3b91-4add-8649-e7cc87a68201.png" width="400">
 <img src="https://user-images.githubusercontent.com/73220161/133519291-255658b3-915a-4e58-8f99-f528c0240bba.png" width="200">
 
-## Mockups
+## Wireframes
 <img src="https://user-images.githubusercontent.com/73220161/133519341-837c80c1-66b0-4fd2-a63f-6e033168404c.png" width="700">
 <img src="https://user-images.githubusercontent.com/73220161/133519352-07e7e5ea-045f-4bc3-9283-6da2323a9bf4.png" width="700">
 <img src="https://user-images.githubusercontent.com/73220161/133519463-8b3d48ab-cc83-49eb-86aa-9f52b4e869d3.png" width="700">
